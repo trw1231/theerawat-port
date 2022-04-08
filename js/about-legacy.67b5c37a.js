@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktheerawat_port_folio"]=self["webpackChunktheerawat_port_folio"]||[]).push([[443],{830:function(t,e,n){n.r(e),n.d(e,{default:function(){return i}});var a=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},r=[function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"about"},[n("h1",[t._v("This is an about page")])])}],u=n(1),l={},s=(0,u.Z)(l,a,r,!1,null,null,null),i=s.exports}}]);
+//# sourceMappingURL=about-legacy.67b5c37a.js.map
